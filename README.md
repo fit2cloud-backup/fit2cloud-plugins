@@ -7,7 +7,7 @@ FIT2CLOUD 提供基于Spring注入机制的插件体系，开发的云插件只�
 ### 插件开发指南
 
 1. 编写云插件的虚机创建模版（launchconfiguration.json)，具体可参考仓库中提供的官方阿里云插件。
-2. 实现 SDK 相应接口 ｀fit2cloud-plugin-sdk/src/main/java/com/fit2cloud/sdk/ICloudProvider.java`bao
+2. 实现 SDK 相应接口 ｀fit2cloud-plugin-sdk/src/main/java/com/fit2cloud/sdk/ICloudProvider.java`
 
 **接口列表**
 
